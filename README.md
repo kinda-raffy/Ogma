@@ -1,2 +1,2 @@
-# Oghma
-Source code for the oghma application
+# OGMA
+Source code for the ogma dynamic textbook application.
